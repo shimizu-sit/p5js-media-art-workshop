@@ -7,6 +7,20 @@
 
 マウスを動かすと，色が変化します．
 
+```javascript
+function setup() {
+  createCanvas(400, 400);
+  noStroke();
+}
+
+function draw() {
+  background(240);
+
+  fill(mouseX, mouseY, 200);
+  circle(200, 200, 120);
+}
+```
+
 ## 学べること
 
 - `mouseX` を色に使う

@@ -2,9 +2,22 @@
 
 ## 内容
 
-画面の中央に円を描く，最初のサンプルです．
+最初に試すサンプルです．  
+画面の中央に円を描きます．
 
-p5.jsで図形を描く基本を確認します．
+```javascript
+function setup() {
+  createCanvas(400, 400);
+  noStroke();
+}
+
+function draw() {
+  background(240);
+
+  fill(255, 120, 120);
+  circle(200, 200, 120);
+}
+```
 
 ## 学べること
 

@@ -6,6 +6,21 @@
 
 マウスを動かすと，その場所に円が描かれます．
 
+マウスで絵を描くサンプルです．
+
+```javascript
+function setup() {
+  createCanvas(400, 400);
+  background(255);
+  noStroke();
+}
+
+function draw() {
+  fill(mouseX, mouseY, 200, 80);
+  circle(mouseX, mouseY, 30);
+}
+```
+
 ## 学べること
 
 - マウスの位置に図形を描く
