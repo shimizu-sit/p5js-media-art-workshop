@@ -53,16 +53,16 @@ p5.js Web Editorで作品を保存するにはログインが必要です．
 
 ## サンプル一覧
 
-| 番号  |  サンプル名   |            内容            |
-| :---: | ------------- | -------------------------- |
-|  01   | first_circle  | 円を描く                   |
-|  02   | mouse_circle  | マウスについてくる円       |
-|  03   | color_mouse   | マウス位置で色が変わる     |
-|  04   | moving_circle | 左右に動く円               |
-|  05   | light_trail   | 光の軌跡                   |
-|  06   | bubbles       | カラフルなシャボン玉       |
-|  07   | mirror_ball   | ミラーボール風の表現       |
-|  08   | dot_paint     | マウスで描くドットペイント |
+| 番号  |      フォルダ      |          内容          |
+| :---: | ------------------ | ---------------------- |
+|  01   | [01_first_circle](./01_first_circle/)  | 円を描く               |
+|  02   | [02_mouse_circle](./02_mouse_circle/)  | マウスについてくる円   |
+|  03   | [03_color_mouse](./03_color_mouse/)   | マウス位置で色が変わる |
+|  04   | [04_moving_circle](./04_moving_circle/) | 左右に動く円           |
+|  05   | [05_light_trail](./05_light_trail/)   | 光の軌跡               |
+|  06   | [06_bubbles](./06_bubbles/)       | カラフルなシャボン玉   |
+|  07   | [07_mirror_ball](./07_mirror_ball/)   | ミラーボール風の表現   |
+|  08   | [08_dot_paint](./08_dot_paint/)     | ドットペイント         |
 
 ## 01：円を描く
 
