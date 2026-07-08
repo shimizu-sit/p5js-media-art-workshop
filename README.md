@@ -53,16 +53,16 @@ p5.js Web Editorで作品を保存するにはログインが必要です．
 
 ## サンプル一覧
 
-| 番号  |      フォルダ      |          内容          |
-| :---: | ------------------ | ---------------------- |
-|  01   | [01_first_circle](./01_first_circle/)  | 円を描く               |
-|  02   | [02_mouse_circle](./02_mouse_circle/)  | マウスについてくる円   |
-|  03   | [03_color_mouse](./03_color_mouse/)   | マウス位置で色が変わる |
-|  04   | [04_moving_circle](./04_moving_circle/) | 左右に動く円           |
-|  05   | [05_light_trail](./05_light_trail/)   | 光の軌跡               |
-|  06   | [06_bubbles](./06_bubbles/)       | カラフルなシャボン玉   |
-|  07   | [07_mirror_ball](./07_mirror_ball/)   | ミラーボール風の表現   |
-|  08   | [08_dot_paint](./08_dot_paint/)     | ドットペイント         |
+| 番号  |                    フォルダ                     |          内容          |
+| :---: | ----------------------------------------------- | ---------------------- |
+|  01   | [01_first_circle](./samples/01_first_circle/)   | 円を描く               |
+|  02   | [02_mouse_circle](./samples/02_mouse_circle/)   | マウスについてくる円   |
+|  03   | [03_color_mouse](./samples/03_color_mouse/)     | マウス位置で色が変わる |
+|  04   | [04_moving_circle](./samples/04_moving_circle/) | 左右に動く円           |
+|  05   | [05_light_trail](./samples/05_light_trail/)     | 光の軌跡               |
+|  06   | [06_bubbles](./samples/06_bubbles/)             | カラフルなシャボン玉   |
+|  07   | [07_mirror_ball](./samples/07_mirror_ball/)     | ミラーボール風の表現   |
+|  08   | [08_dot_paint](./samples/08_dot_paint/)         | ドットペイント         |
 
 ## 01：円を描く
 
